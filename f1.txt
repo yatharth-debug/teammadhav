@@ -1,0 +1,1 @@
+Imagine I am your source code: Git can record my changes so you can review earlier versions.
