@@ -1,0 +1,1 @@
+Imagine I am a new login feature: keep my addition in a recorded version of the project.

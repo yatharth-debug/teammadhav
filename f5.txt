@@ -1,0 +1,1 @@
+Imagine I am a new settings feature: a commit summary explains why this group of files changed.
